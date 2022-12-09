@@ -40,7 +40,7 @@ TR:Diyelim ki micro:bit v1 inizle havalı olmak istiyorsunuz.O zaman bu repo tam
 
 # 2.Bir metin dosyası oluşturup içine birşeyler yazın.
 
-Bir metin belgesi oluşturun.Ondan sonra içine tırnaklar içinde yazılmış olan şeyi kopyalayıp yapıştırın.
+Bir metin belgesi oluşturun.Adı kesinlikle "key" olmalı.Ondan sonra içine tırnaklar içinde yazılmış olan şeyi kopyalayıp yapıştırın.
 
 "
 
